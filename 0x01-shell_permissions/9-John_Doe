@@ -1,2 +1,2 @@
 #!/bin/bash
-stat hello
+chmod 753 hello
