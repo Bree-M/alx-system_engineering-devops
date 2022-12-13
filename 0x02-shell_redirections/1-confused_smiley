@@ -1,2 +1,2 @@
 #!/bin/bash
-smiley = "\u0028\u00D4\u006F\u0029\u0027"
+cat txt_file.1
