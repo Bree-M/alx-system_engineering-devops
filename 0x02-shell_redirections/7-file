@@ -1,2 +1,2 @@
 #!/bin/bash
-touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | uniq echo -e 'Best School' > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | uniq
+touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | uniq echo -e 'Best School\n' > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | uniq
