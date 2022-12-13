@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e 'Best School\n' > 'cat txt_file.2'
+echo -e 'Best School' > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | uniq
