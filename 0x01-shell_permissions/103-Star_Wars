@@ -1,4 +1,2 @@
 #!/bin/bash
-mplayer /path/to/movie.ext
-
-
+asciicast /path/to/movie.ext
